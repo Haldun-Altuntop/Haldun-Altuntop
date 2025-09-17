@@ -35,4 +35,4 @@
 
 ---
 
-Sistemi herkes kullanabilir. Onu yönetebilir misin?
+Sistemi herkes kullanabilir. Peki ya onu yönetebilir misin?
